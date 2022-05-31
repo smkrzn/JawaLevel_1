@@ -35,7 +35,6 @@ public class Main {
         String initialValue = "МИР";
         String[] tabl = new String[len];
         tabl = arr(len,initialValue);
-
         ///check5(tabl);               /// Проверка задания 5
 
         int[] numbers = {9, 5, 6, 10, 7, 16, 85};
