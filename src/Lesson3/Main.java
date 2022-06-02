@@ -52,7 +52,7 @@ public class Main {
         shift(numbers, n);
     }
 
-    public static int[] oneZero ( int[] arr) {              ///// Задание 1
+    public static int[] oneZero ( int [] arr) {              ///// Задание 1
         int[] res = new int [arr.length];
         for (int i = 0 ; i < arr.length ; i++){
             if ( arr[i] == 0){
