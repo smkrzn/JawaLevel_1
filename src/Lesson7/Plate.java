@@ -34,6 +34,7 @@ public class Plate {
         }
     }
 
+
     public void info(){
         System.out.println("В тарелке осталось " + food + " еды.");
     }

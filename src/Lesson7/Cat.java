@@ -52,5 +52,6 @@ public class Cat {
 
     public void setAppetite(int appetite) {
         this.appetite = appetite;
+
     }
 }
